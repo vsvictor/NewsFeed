@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="newsfeed_loader" type="id" />
+    <item name="db_feed_loader" type="id" />
+    <item name="comment_count_loader" type="id" />
+</resources>

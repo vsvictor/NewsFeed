@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="title_item_detail">Super News</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Indian\nNEWS</string>
+    <string name="indian">Indian</string>
+    <string name="news">NEWS</string>
+    <string name="comments_count">0 comments</string>
+    <string name="comments_url">Comments...</string>
+    <string name="related">Related...</string>
+</resources>
